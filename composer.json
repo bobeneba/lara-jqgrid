@@ -1,0 +1,14 @@
+{
+    "name": "taw/lara-jqgrid",
+    "description": "laravel jqgrid",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bobeneba",
+            "email": "dengtao139796@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
